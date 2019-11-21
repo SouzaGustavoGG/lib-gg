@@ -1,3 +1,3 @@
-module github.com/souza-gustavo/lib-gg
+module github.com/SouzaGustavoGG/lib-gg
 
 go 1.13
